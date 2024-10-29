@@ -2,7 +2,6 @@ import React from "react";
 import { data } from "./data";
 
 import Card from "./components/card";
-import Footer from "./components/footer";
 import Header from "./components/header";
 
 function App() {
@@ -31,7 +30,6 @@ function App() {
           />
         ))}
       </div>
-      <Footer />
     </body>
   );
 }
