@@ -17,6 +17,6 @@ export const data = [
   {
     name: "gallery",
     emoji: "🖼️",
-    description: "poorly-pictured photos",
+    description: "color. shapes. ugliness.",
   },
 ];
